@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647261251 source:c:\users\win10\documents\6 periodo\etrut dados\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
