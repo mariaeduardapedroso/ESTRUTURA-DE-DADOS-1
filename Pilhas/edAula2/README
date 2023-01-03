@@ -1,0 +1,11 @@
+Dinamica precisamos usar maloc e sizeof e free tudo no stdlib
+
+push empilhar e pop desempilhar fazem uso dessas funçoes
+
+push -> malloc(sizeof...)
+
+
+pop -> free()
+
+topo vai ser ponteiro
+
